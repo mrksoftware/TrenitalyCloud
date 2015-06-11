@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "Trenitaly Services": {
+      "applicationId": "agom2oeWKIdJgYScnrzvqzSNMT36CbfsfY4c7Vrd",
+      "masterKey": "ZFcVGPLphD9HnvJt3eu2dZJA3AJibmpfI1cD9SOu"
+    },
+    "_default": {
+      "link": "Trenitaly Services"
+    }
+  }
+}
